@@ -1,0 +1,30 @@
+.wpc-edit-icon {
+    background-image: url(edit.png);
+    background-size: 16px;
+    background-repeat: no-repeat;
+    width: auto !important;
+    background-color: #cecece;
+    padding: 5px 5px 5px 25px;
+    background-position: 5px 5px;
+    cursor: pointer;
+}
+
+.wpc-edit-icon:hover > .cart-text {
+    text-decoration: underline;
+}
+
+.wpc-cart-item-buttons {
+    padding-top: 15px;
+}
+
+.wpc-field-error {
+    color: red;
+}
+
+.wpc-cart-edit {
+    /* padding: 0 1em !important; */
+}
+
+.wpc-modal-title {
+    padding-bottom: 15px;
+}
